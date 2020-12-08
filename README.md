@@ -1,6 +1,5 @@
 <html>
-  <img src="https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif" align="left">
-  <pre>
+  <img src="https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif" align="left"><pre>
   sdafasdfsadfsadfsadf
   sdfsadfsadfasdfsadfsadfsadfsdf
   sdfsadfsadf
