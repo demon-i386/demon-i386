@@ -7,7 +7,7 @@
   sdfsafsadf
   sdafasdfsdaf
   </pre>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@demoni386/f7ed0b5d-43f3-42f0-9f86-3cd96a680d6f.png" /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@demoni386/f7ed0b5d-43f3-42f0-9f86-3cd96a680d6f.png" width=50px height=50px/></a>
   </body>
  </html>
 <!--
