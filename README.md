@@ -1,8 +1,7 @@
 ### Hi there 👋
 <html>
   <body>
-<img src="https://tenor.com/4Ei1.gif">
-<div class="tenor-gif-embed" data-postid="13462237" data-share-method="host" data-width="100%" data-aspect-ratio="1.0755939524838012"><a href="https://tenor.com/view/cute-anime-dancing-silly-happy-excited-gif-13462237">Cute Anime Dancing GIF</a> from <a href="https://tenor.com/search/cuteanime-gifs">Cuteanime GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif">
   </body>
  </html>
 <!--
