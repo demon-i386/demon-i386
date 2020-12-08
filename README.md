@@ -6,8 +6,13 @@
   sdfasdfsdaf
   sdfsafsadf
   sdafasdfsdaf
+  gdfsgsdfg
+  dsfgdsfg
+  dfsgsdfgdsfg
+  dsfgsdfgsdfg
+  dsfgsdfg
   </pre>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@demoni386/f7ed0b5d-43f3-42f0-9f86-3cd96a680d6f.png" width=500px/></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@demoni386/f7ed0b5d-43f3-42f0-9f86-3cd96a680d6f.png" width=500px align="left"/></a>
   </body>
  </html>
 <!--
