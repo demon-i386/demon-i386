@@ -1,6 +1,5 @@
 <html>
-  <body><p style="text-align:left">This is some text in a paragraph.</p>
-  <img src="https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif">
+  <img src="https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif" style="display:inline;>
   </body>
  </html>
 <!--
