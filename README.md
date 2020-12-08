@@ -9,7 +9,7 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=demon-i386&" alt="demon-i386" /></p>
   </body>
  </html>
- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=demon-i386)]
+ ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=demon-i386)
 <!--
 **demon-i386/demon-i386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
