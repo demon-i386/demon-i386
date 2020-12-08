@@ -6,9 +6,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=demon-i386&show_icons=true&locale=en&layout=compact" alt="demon-i386" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demon-i386&show_icons=true&locale=en" alt="demon-i386" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=demon-i386&show_icons=true&locale=en" alt="demon-i386" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=demon-i386&" alt="demon-i386" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=demon-i386&" alt="demon-i386" /></p>
   </body>
  </html>
 <!--
