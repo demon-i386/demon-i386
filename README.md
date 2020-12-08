@@ -1,5 +1,5 @@
 <html>
-  <img src="https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif" style="display:inline;>
+  <img src="https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif">
   </body>
  </html>
 <!--
