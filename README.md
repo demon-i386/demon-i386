@@ -1,4 +1,3 @@
-### Hi there 👋
 <html>
   <body>
   <img src="https://media.giphy.com/media/Diym3aZO1dHzO/giphy.gif">
