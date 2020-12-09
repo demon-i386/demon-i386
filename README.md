@@ -2,6 +2,6 @@
 🕵 - 1337,h4xx0r,h0xx0r h0h0h0h,pwner
 🐍 - Python
 😎 - C
-🤖 - learnin kernelland and bin exploitation becaus3 yes
+🤖 - learnin kernelland / binex
 😟 - pls teach me web h4xx01ng
 </pre>
