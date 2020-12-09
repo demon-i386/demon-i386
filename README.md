@@ -1,1 +1,1 @@
-<img src="https://media.giphy.com/media/14ewmn88ggjTnG/giphy.gif" align="right"/>
+<img src="https://media.giphy.com/media/4Ev0Ari2Nd9io/giphy.gif" align="left"/>
