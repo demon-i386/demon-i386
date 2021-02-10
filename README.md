@@ -11,7 +11,7 @@
 ![:us: English (Intermediate, write/read speak)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
 
 </div>
-<div align="right">
+<div align="right" position="absolute">
 <pre>
 Welcome to my github
 🕵 - 1337,h4xx0r,h0xx0r h0h0h0h,pwner
