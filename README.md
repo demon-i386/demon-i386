@@ -4,13 +4,6 @@
 ![python skill](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![C skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C++ skill](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![bash skill](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000)  [![email: unsignedlongint@protonmail.com](https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=FFF)](mailto:unsignedlongint@protonmail.com)
 
 
-<div align="left">
-<img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
-  
-![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)<br/>
-![:us: English (Intermediate, write/read speak)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
-</div>
-
 <pre>
 Welcome to my github
 🕵 - 1337,h4xx0r,h0xx0r h0h0h0h,pwner
@@ -24,6 +17,15 @@ obs :: im noob
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=15" align="center">
 </pre>
+
+<div align="left">
+<img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
+  
+![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)<br/>
+![:us: English (Intermediate, write/read speak)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
+</div>
+
+
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222)
 
