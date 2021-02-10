@@ -10,8 +10,6 @@
 ![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)<br/>
 ![:us: English (Intermediate, write/read speak)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
 
-</div>
-<div align="right" position="absolute">
 <pre>
 Welcome to my github
 🕵 - 1337,h4xx0r,h0xx0r h0h0h0h,pwner
@@ -25,7 +23,6 @@ obs :: im noob
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=15" align="center">
 </pre>
-</div>
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222)
 
