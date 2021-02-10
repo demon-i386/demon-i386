@@ -1,7 +1,7 @@
 <div align="center">
   
   
-![python skill](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![C skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C++ skill](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![bash skill](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)[![email: unsignedlongint@protonmail.com](https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=FFF)](mailto:unsignedlongint@protonmail.com)![Linux](https://img.shields.io/badge/Linux-FCC624?&style=flat&logo=linux&logoColor=000)
+![python skill](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![C skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C++ skill](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![bash skill](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)[![email: unsignedlongint@protonmail.com](https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=FFF)](mailto:unsignedlongint@protonmail.com)![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000)
 
 <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" align="left"/><pre>
 Welcome to my github
