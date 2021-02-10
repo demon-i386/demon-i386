@@ -13,7 +13,7 @@
 
 </div>
  
-<div align="center">
+<div align="right">
 
 <pre>
 Welcome to my github
