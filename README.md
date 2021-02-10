@@ -14,3 +14,5 @@ obs :: i like web pwn but im noob lmao
 obs :: i like lowlevel but im noob too lmao
 obs :: im noob
 </pre>
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222)
