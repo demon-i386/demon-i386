@@ -6,8 +6,7 @@
 
 <div style="width: 50%; margin: 0 auto;align-content: center" align="right">
 
-<div style="width:200px;overflow:auto">
-<pre>
+
 Welcome to my github
 🕵 - 1337,h4xx0r,h0xx0r h0h0h0h,pwner
 🐍 - Python
@@ -19,8 +18,7 @@ obs :: i like lowlevel but im noob too lmao
 obs :: im noob
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=15" align="center">
-</pre>
-</div>
+
 
 <div align="left">
 <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
