@@ -8,13 +8,12 @@
 
 <pre align="center">
 
-<img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" align="left">
-
-
 Welcome to my github
 🕵 - 1337,h4xx0r,h0xx0r h0h0h0h,pwner
 🐍 - Python
 😎 - C / C++
+
+<img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" align="left">
 
 obs :: prog > web pwn
 obs :: i like web pwn but im noob lmao
