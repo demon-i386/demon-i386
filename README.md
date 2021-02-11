@@ -1,4 +1,4 @@
-<div align="center">
+<div class=".container">
   
   
 ![python skill](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![C skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C++ skill](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![bash skill](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000)  [![email: unsignedlongint@protonmail.com](https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=FFF)](mailto:unsignedlongint@protonmail.com)
@@ -32,5 +32,9 @@ obs :: im noob
 
 <img src="https://piskel-imgstore-b.appspot.com/img/ad16984a-6bfb-11eb-959b-f7c4b095995c.gif">
 
-
+<style>
+.container {
+  display: grid | inline-grid;
+}
+</style>
 
