@@ -4,7 +4,7 @@
 ![python skill](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![C skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C++ skill](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![bash skill](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000)  [![email: unsignedlongint@protonmail.com](https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=FFF)](mailto:unsignedlongint@protonmail.com)
 </div>
 
-<div align-content="center" >
+<div style="width: 50%; margin: 0 auto;align-content: center">
 <pre>
 Welcome to my github
 🕵 - 1337,h4xx0r,h0xx0r h0h0h0h,pwner
