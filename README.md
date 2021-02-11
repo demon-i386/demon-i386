@@ -9,6 +9,7 @@
 
 
 <pre align="right" weight=20px width=20>
+<img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" align="left">
 Welcome to my github
 🕵 - 1337,h4xx0r,h0xx0r h0h0h0h,pwner
 🐍 - Python
@@ -23,8 +24,6 @@ obs :: im noob
 </pre>
 
 <div align="left">
-<img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
- 
 ![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)<br/>
 ![:us: English (Intermediate, write/read speak)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
 </div>
