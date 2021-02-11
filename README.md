@@ -13,7 +13,7 @@ Welcome to my github
 🐍 - Python
 😎 - C / C++
 
-<img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
+<img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" align="left">
 
 obs :: prog > web pwn
 obs :: i like web pwn but im noob lmao
