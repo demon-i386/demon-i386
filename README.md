@@ -29,10 +29,9 @@ obs :: im noob
 ![:us: English (Intermediate, write/read speak)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
 </div>
 
-
-
+<div align="center">
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222)
 
 
 <img src="https://piskel-imgstore-b.appspot.com/img/ad16984a-6bfb-11eb-959b-f7c4b095995c.gif" align="center">
-
+</div>
