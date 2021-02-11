@@ -29,14 +29,6 @@ obs :: im noob
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222)
 
-<img src="https://piskel-imgstore-b.appspot.com/img/ad16984a-6bfb-11eb-959b-f7c4b095995c.gif">
 
-<style>
-.container {
-  display: grid;
-  grid-template-columns: 3fr 1fr;
-  grid-template-rows: 20vh 70vh 10vh;
-  
-}
-</style>
+<img src="https://piskel-imgstore-b.appspot.com/img/ad16984a-6bfb-11eb-959b-f7c4b095995c.gif" align="center">
 
