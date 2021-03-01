@@ -25,7 +25,6 @@ obs :: im noob
 
 </pre>
 
-<pre>
 <div align="right">
   
 ![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)<br/>
@@ -37,4 +36,3 @@ obs :: im noob
   
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222)
 
-</pre>
