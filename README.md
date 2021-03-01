@@ -34,8 +34,6 @@ obs :: im noob
 </div>
 
 
-<div align="right">
   
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222)
 
-</div>
