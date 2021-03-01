@@ -33,6 +33,9 @@ obs :: im noob
 </div>
 
 
-  
+<div style="padding: 50px; background-color: #E5E4E2; display: inline-block;">  
+    
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222)
+
+</div>
 
