@@ -41,5 +41,6 @@ obs :: im noob
 
 ### whoami
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20S-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-s-844014206/)](https://www.linkedin.com/in/pedro-s-844014206/)
+[![HackTheBox Badge](https://img.shields.io/badge/-eclipsezero-9fef00?style=flat-square&logo=Hack-The-Box&logoColor=white&link=https://app.hackthebox.eu/profile/412490)](https://app.hackthebox.eu/profile/412490)
 
 
