@@ -39,3 +39,7 @@ obs :: im noob
 
 </div>
 
+### whoami
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20S-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-s-844014206/)](https://www.linkedin.com/in/pedro-s-844014206/)
+
+
