@@ -42,8 +42,8 @@ obs :: im noob
 ### whoami
 
 <div align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20S-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-s-844014206/)](https://www.linkedin.com/in/pedro-s-844014206/)
+    
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20S-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-s-844014206/)](https://www.linkedin.com/in/pedro-s-844014206/)[![HackTheBox Badge](https://img.shields.io/badge/-eclipsezero-9fef00?style=for-the-badge&logo=Hack-The-Box&logoColor=white&link=https://app.hackthebox.eu/profile/412490)](https://app.hackthebox.eu/profile/412490)
 
-[![HackTheBox Badge](https://img.shields.io/badge/-eclipsezero-9fef00?style=for-the-badge&logo=Hack-The-Box&logoColor=white&link=https://app.hackthebox.eu/profile/412490)](https://app.hackthebox.eu/profile/412490)
 </div>
 
