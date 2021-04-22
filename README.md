@@ -15,9 +15,7 @@ Welcome to my github
 🕵 - 1337,h4xx0r,h0xx0r h0h0h0h,pwner
 🐍 - Python
 😎 - C / C++
-
 <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" align="left">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=15" align="center">
 
 
