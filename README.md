@@ -10,15 +10,12 @@
 
 
 <pre align="center">
-
 Welcome to my github
 🕵 - 1337,h4xx0r,h0xx0r h0h0h0h,pwner
 🐍 - Python
 😎 - C / C++
 <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=15" align="center">
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=15" align="right">
 </pre>
 
 <div style="padding: 50px; background-color: #BCC6CC; width: 100px; display: inline-block;">
@@ -36,7 +33,7 @@ Welcome to my github
 
 
 <div align="center">
-    <h3>Contact</h3>
+    <h3>Contacts</h3>
     
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20S-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-s-844014206/)](https://www.linkedin.com/in/pedro-s-844014206/) [![email: unsignedlongint@protonmail.com](https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=FFF)](mailto:unsignedlongint@protonmail.com)
 
