@@ -16,12 +16,14 @@ Welcome to my github
 😎 - C / C++
 <img src="https://media.tenor.com/images/2960c567c3dbaa1ad39fc28fcdc9ab2a/tenor.gif" align="left" width="500" height="500">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=15" align="center">
+
+![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000) ![:us: English (Intermediate, write/read speak)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
+
+
 </pre>
 
 <div style="padding: 50px; background-color: #BCC6CC; width: 100px; display: inline-block;">
   
-![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000) ![:us: English (Intermediate, write/read speak)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
-
 </div>
 
 
