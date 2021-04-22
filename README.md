@@ -14,7 +14,7 @@ Welcome to my github
 🕵 - 1337,h4xx0r,h0xx0r h0h0h0h,pwner
 🐍 - Python
 😎 - C / C++
-<img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" align="left">
+<div class="tenor-gif-embed" data-postid="13598987" data-share-method="host" data-width="100%" data-aspect-ratio="1.064102564102564"><a href="https://tenor.com/view/zero-megaman-gif-13598987">Zero Megaman GIF</a> from <a href="https://tenor.com/search/zero-gifs">Zero GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=15" align="right">
 </pre>
 
