@@ -1,3 +1,6 @@
+## Wassup! im demon-i386 :computer:
+------------
+
 <div align="center">
     
 ![python skill](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![C skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C++ skill](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![bash skill](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![php skill](https://img.shields.io/badge/PHP-121011?style=for-the-badge&logo=php&logoColor=white&color=blue)![mysql skill](https://img.shields.io/badge/MYSQL-121011?style=for-the-badge&logo=mysql&logoColor=white&color=red)![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000)[![HackTheBox Badge](https://img.shields.io/badge/-eclipsezero-9fef00?style=for-the-badge&logo=Hack-The-Box&logoColor=white&link=https://app.hackthebox.eu/profile/412490)](https://app.hackthebox.eu/profile/412490)
