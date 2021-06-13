@@ -1,6 +1,6 @@
 ## Wassup! im demon-i386 :computer:
 ------------
-<pre>
+
     <div align = "left">
         <a href="https://gifs.alphacoders.com/gifs/view/2582"><img src="https://giffiles.alphacoders.com/258/2582.gif"></a>
     </div>
@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000">
         <a href="https://app.hackthebox.eu/profile/412490"><img src="https://img.shields.io/badge/-eclipsezero-9fef00?style=for-the-badge&logo=Hack-The-Box&logoColor=white&link=https://app.hackthebox.eu/profile/412490">
     </div>
-</pre>
+
 
 
 ![Image](./whoami.png)
