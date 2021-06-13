@@ -8,12 +8,7 @@
 </div>
 
 
-
-<pre align="center">
-<img src="https://media.tenor.com/images/2960c567c3dbaa1ad39fc28fcdc9ab2a/tenor.gif" align="left" width="500" height="500">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=15" align="center">
-
-</pre>
+![Image]("./whoami")
 
 <div style="padding: 50px; background-color: #BCC6CC; width: 100px; display: inline-block;">
   
