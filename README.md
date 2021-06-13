@@ -4,19 +4,13 @@
     <div align = "left">
         <a href="https://gifs.alphacoders.com/gifs/view/2582"><img src="https://giffiles.alphacoders.com/258/2582.gif"></a>
     </div>
+    <div align="right">
+        ![python skill](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![C skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C++ skill](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![bash skill](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![php skill](https://img.shields.io/badge/PHP-121011?style=for-the-badge&logo=php&logoColor=white&color=blue)![mysql skill](https://img.shields.io/badge/MYSQL-121011?style=for-the-badge&logo=mysql&logoColor=white&color=red)![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000)[![HackTheBox Badge](https://img.shields.io/badge/-eclipsezero-9fef00?style=for-the-badge&logo=Hack-The-Box&logoColor=white&link=https://app.hackthebox.eu/profile/412490)](https://app.hackthebox.eu/profile/412490)
 </pre>
-
-<div align="center">
-    
-![python skill](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![C skill](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C++ skill](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![bash skill](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![php skill](https://img.shields.io/badge/PHP-121011?style=for-the-badge&logo=php&logoColor=white&color=blue)![mysql skill](https://img.shields.io/badge/MYSQL-121011?style=for-the-badge&logo=mysql&logoColor=white&color=red)![Linux](https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000)[![HackTheBox Badge](https://img.shields.io/badge/-eclipsezero-9fef00?style=for-the-badge&logo=Hack-The-Box&logoColor=white&link=https://app.hackthebox.eu/profile/412490)](https://app.hackthebox.eu/profile/412490)
-
-</div>
 
 
 ![Image](./whoami.png)
-
 <div style="padding: 50px; background-color: #BCC6CC; width: 100px; display: inline-block;">
-  
 </div>
 
 ![:brazil: Portuguese ](https://img.shields.io/badge/Portugu%C3%AAs-4CAF72?&label=Materno&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000) ![:us: English (Intermediate, write/read speak)](https://img.shields.io/badge/English-4C51AF?&label=Intermediate%2C%20read/write&labelColor=222&style=for-the-badge&logo=pt-br&logoColor=000)
