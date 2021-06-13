@@ -1,10 +1,10 @@
 ## Wassup! im demon-i386 :computer:
 ------------
 
-    <div align = "left">
+<div align = "left">
         <a href="https://gifs.alphacoders.com/gifs/view/2582"><img src="https://giffiles.alphacoders.com/258/2582.gif"></a>
-    </div>
-    <div align="right">
+ </div>
+ <div align="right">
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/MYSQL-121011?style=for-the-badge&logo=mysql&logoColor=white&color=red">
         <img src="https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000">
         <a href="https://app.hackthebox.eu/profile/412490"><img src="https://img.shields.io/badge/-eclipsezero-9fef00?style=for-the-badge&logo=Hack-The-Box&logoColor=white&link=https://app.hackthebox.eu/profile/412490">
-    </div>
+ </div>
 
 
 
