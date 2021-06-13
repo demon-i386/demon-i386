@@ -3,7 +3,8 @@
 
    <a href="https://gifs.alphacoders.com/gifs/view/2582"><img align="left" src="https://giffiles.alphacoders.com/258/2582.gif" style="position: absolute"></a>
  <div align="right">
-        <ul style="list-style-type: none;">
+        <div id="user-content-toc"> 
+            <ul>
                 <li><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></li>
                 <li><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></li>
                 <li><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></li>
@@ -12,7 +13,8 @@
                 <li><img src="https://img.shields.io/badge/MYSQL-121011?style=for-the-badge&logo=mysql&logoColor=white&color=red"></li>
                 <li><img src="https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000"></li>
                 <li><a href="https://app.hackthebox.eu/profile/412490"><img src="https://img.shields.io/badge/-eclipsezero-9fef00?style=for-the-badge&logo=Hack-The-Box&logoColor=white&link=https://app.hackthebox.eu/profile/412490"></li>
-       </ul>
+         </ul>
+      </div>
  </div>
 
 
