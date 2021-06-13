@@ -1,9 +1,7 @@
 ## Wassup! im demon-i386 :computer:
 ------------
 
-<div align = "left">
-        <a href="https://gifs.alphacoders.com/gifs/view/2582"><img src="https://giffiles.alphacoders.com/258/2582.gif" style="position: absolute"></a>
- </div>
+   <a href="https://gifs.alphacoders.com/gifs/view/2582"><img align="left" src="https://giffiles.alphacoders.com/258/2582.gif" style="position: absolute"></a>
  <div align="right">
         <ul>
                 <li style="list-style-type: none;"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></li>
