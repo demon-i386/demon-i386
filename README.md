@@ -1,7 +1,10 @@
 ## Wassup! im demon-i386 :computer:
 ------------
-
-<a href="https://gifs.alphacoders.com/gifs/view/2582"><img src="https://giffiles.alphacoders.com/258/2582.gif"></a>
+<pre>
+    <div align = "left">
+        <a href="https://gifs.alphacoders.com/gifs/view/2582"><img src="https://giffiles.alphacoders.com/258/2582.gif"></a>
+    </div>
+</pre>
 
 <div align="center">
     
