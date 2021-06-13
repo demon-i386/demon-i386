@@ -2,7 +2,7 @@
 ------------
 
 <div align = "left">
-        <a href="https://gifs.alphacoders.com/gifs/view/2582"><img src="https://giffiles.alphacoders.com/258/2582.gif"></a>
+        <a href="https://gifs.alphacoders.com/gifs/view/2582"><img src="https://giffiles.alphacoders.com/258/2582.gif" style="position: absolute"></a>
  </div>
  <div align="right">
         <ul>
