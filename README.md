@@ -13,6 +13,7 @@
         <img src="https://img.shields.io/badge/MYSQL-121011?style=for-the-badge&logo=mysql&logoColor=white&color=red">
         <img src="https://img.shields.io/badge/Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=000">
         <a href="https://app.hackthebox.eu/profile/412490"><img src="https://img.shields.io/badge/-eclipsezero-9fef00?style=for-the-badge&logo=Hack-The-Box&logoColor=white&link=https://app.hackthebox.eu/profile/412490">
+    </div>
 </pre>
 
 
