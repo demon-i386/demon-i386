@@ -10,10 +10,6 @@
 
 
 <pre align="center">
-Welcome to my github
-🕵 - 1337,h4xx0r,h0xx0r h0h0h0h,pwner
-🐍 - Python
-😎 - C / C++
 <img src="https://media.tenor.com/images/2960c567c3dbaa1ad39fc28fcdc9ab2a/tenor.gif" align="left" width="500" height="500">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demon-i386&hide_border=true&show_icons=true&title_color=ddd&icon_color=ddd&text_color=fff&bg_color=222&langs_count=15" align="center">
 
