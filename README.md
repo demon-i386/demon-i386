@@ -18,3 +18,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20S-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-s-844014206/)](https://www.linkedin.com/in/pedro-silva-844014206/) [![email: unsignedlongint@protonmail.com](https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=FFF)](mailto:unsignedlongint@protonmail.com)
 </div>
 
+<div align="center">
+    <h3>Hobbies</h3>
+   
+ ![Soundcloud](https://soundcloud.com/demon-i386/experiment-0)
+
